@@ -1,39 +1,107 @@
-# Kalkulator Gaji Karyawan
+# 💼 Employee Salary Calculator
 
-Sebuah program command-line sederhana yang dibuat dengan Python untuk menghitung total gaji seorang karyawan berdasarkan golongan dan jam lembur.
+A simple Python command-line application that calculates an employee's total salary based on job grade and overtime hours.
 
-Proyek ini dibuat untuk melatih logika dasar pemrograman, penggunaan struktur data (array/list), dan percabangan (if-elif-else).
+This project was developed to practice Python fundamentals, conditional statements, user input handling, and basic business logic implementation.
 
-## Fitur Utama
+---
 
-- Menghitung gaji pokok berdasarkan golongan karyawan (A, B, C).
-- Menghitung upah lembur sebagai persentase dari gaji pokok.
-- Menampilkan rincian total penghasilan yang diterima karyawan.
+## 📸 Preview
 
-## Teknologi yang Digunakan
+> Screenshot coming soon.
 
-- **Python 3**
+---
 
-## Cara Menjalankan Program
+## ✨ Features
 
-Untuk menjalankan program ini di komputermu, ikuti langkah berikut:
+- Calculate base salary based on employee grade
+- Calculate overtime pay automatically
+- Display salary breakdown
+- Calculate total salary
+- Simple command-line interface (CLI)
 
-1.  Clone repository ini ke komputermu:
-    ```bash
-    git clone [https://github.com/Plida05/program-gaji-karyawan.git](https://github.com/Plida05/program-gaji-karyawan.git)
-    ```
-2.  Masuk ke direktori proyek:
-    ```bash
-    cd program-gaji-karyawan
-    ```
-3.  Jalankan file script Python:
-    ```bash
-    python InputGaji.py
-    ```
-4.  Ikuti instruksi yang muncul di terminal untuk memasukkan data.
+---
 
-## Contoh Output
+## 🛠 Tech Stack
 
-Berikut adalah contoh output ketika program dijalankan:
-Masukkan Golongan (A/B/C): C Masukkan Jam Lembur: 5
-Golongan : C Gaji Pokok : Rp9,500,000 Gaji Lembur : Rp3,610,000 Total Gaji : Rp13,110,000
+| Technology | Purpose |
+|------------|---------|
+| Python 3 | Programming Language |
+| CLI (Console) | User Interface |
+
+---
+
+## 📂 Project Structure
+
+```text
+employee-salary-calculator/
+│
+├── InputGaji.py
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository.
+
+```bash
+git clone https://github.com/Plida05/employee-salary-calculator.git
+```
+
+Navigate to the project directory.
+
+```bash
+cd employee-salary-calculator
+```
+
+Run the program.
+
+```bash
+python InputGaji.py
+```
+
+---
+
+## 🧾 Sample Output
+
+```text
+Enter Employee Grade (A/B/C): C
+Enter Overtime Hours: 5
+
+Employee Grade : C
+Base Salary    : Rp9,500,000
+Overtime Pay   : Rp3,610,000
+Total Salary   : Rp13,110,000
+```
+
+---
+
+## 🧠 Key Concepts Implemented
+
+- Python Fundamentals
+- Variables & Data Types
+- User Input Handling
+- Conditional Statements (`if`, `elif`, `else`)
+- Arithmetic Operations
+- Business Logic Implementation
+
+---
+
+## 🎯 Learning Objectives
+
+This project was developed to practice:
+
+- Python Programming Fundamentals
+- Problem Solving
+- Conditional Logic
+- Console Application Development
+
+---
+
+## 👩‍💻 Author
+
+**Rr Nabila Fatharani Yuwvrida**
+
+Information Systems Student
