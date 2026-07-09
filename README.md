@@ -8,7 +8,9 @@ This project was developed to practice Python fundamentals, conditional statemen
 
 ## 📸 Preview
 
-> Screenshot coming soon.
+![Home](asset/python-1.png)
+
+![Result](asset/python-2.png)
 
 ---
 
